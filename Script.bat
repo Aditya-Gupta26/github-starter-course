@@ -5,5 +5,5 @@ git remote -v
 git fetch upstream
 git checkout main
 git merge upstream/main --allow-unrelated-histories
-git push -f magin main
+git push -f magic main
 PAUSE
